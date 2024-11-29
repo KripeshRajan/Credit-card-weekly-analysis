@@ -47,8 +47,9 @@ This Power BI dashboard provides a comprehensive analysis of credit card transac
 ## File Structure
 
 - **`credit_card_report.pbix`**: The Power BI file containing the dashboard design and data model.
-- **`credit_card.csv`,`customer.csv`,`cc_add.csv`,`cust_ad.csv`**: The raw dataset used to create the dashboard.
-- **`DAX Queries.docx`**: DAX Queries used for the project
+- **`credit_card.csv`,`customer.csv`,`cc_add(1).csv`,`cust_add(1).csv`**: The raw dataset used to create the dashboard.
+- **`DAX Queries.docx`**: DAX Queries used in  the project
+- **`SQL Queries.docx`**: SQL Queries used in the project
 - **`README.md`**: This documentation file.
 - **` Preview1.jpg, Preview2.jpg`**: A preview of the Bank Loan Anlysis Dashboard for quick reference.
 
