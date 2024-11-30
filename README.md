@@ -1,7 +1,7 @@
 # MasterCard Weekly status Analysis
 ![mastercard_logo_alternate_lockup-removebg-preview](https://github.com/user-attachments/assets/a8863a54-9b07-4e58-ac5e-47733f0016f1)
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZDlhMjI0NGQtNjBiMy00YmFkLWI3ZTAtMThiNTVhYmI3NmYyIiwidCI6ImVkNTcxY2M5LWYxNGUtNGFiOS1hZjY4LTkzOTIyNjY0ZWQzZiJ9
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNjgxNTM4NzItYTlhMC00YzE5LTg5NWMtZWRhOTU2N2Y5MjkyIiwidCI6ImVkNTcxY2M5LWYxNGUtNGFiOS1hZjY4LTkzOTIyNjY0ZWQzZiJ9
 
 ## Overview
 
@@ -46,7 +46,7 @@ This Power BI dashboard provides a comprehensive analysis of credit card transac
 
 ## File Structure
 
-- **`credit_card_report.pbix`**: The Power BI file containing the dashboard design and data model.
+- **`MasterCard weekly status Analysis.pbix`**: The Power BI file containing the dashboard design and data model.
 - **`credit_card.csv`,`customer.csv`,`cc_add(1).csv`,`cust_add(1).csv`**: The raw dataset used to create the dashboard.
 - **`DAX Queries.docx`**: DAX Queries used in  the project
 - **`SQL Queries.docx`**: SQL Queries used in the project
