@@ -1,5 +1,5 @@
 # Credit card Weekly status Report
-
+![mastercard_logo_alternate_lockup-removebg-preview](https://github.com/user-attachments/assets/a8863a54-9b07-4e58-ac5e-47733f0016f1)
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZDlhMjI0NGQtNjBiMy00YmFkLWI3ZTAtMThiNTVhYmI3NmYyIiwidCI6ImVkNTcxY2M5LWYxNGUtNGFiOS1hZjY4LTkzOTIyNjY0ZWQzZiJ9
 
